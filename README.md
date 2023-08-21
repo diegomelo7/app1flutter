@@ -1,7 +1,6 @@
 # dioproject
 
-A new Flutter project.
-
+Meu primeiro projeto em flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
